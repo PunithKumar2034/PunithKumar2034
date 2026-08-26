@@ -43,7 +43,6 @@ I'm a CSE (AI & ML) student currently pursuing my engineering degree. I'm intere
 * Git
 * GitHub
 * n8n
-* UiPath
 
 ## Projects
 
